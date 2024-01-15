@@ -1,0 +1,1 @@
+python test.py --cfg_file cfgs/da-kitti-custom_models/secondiou/secondiou_ped.yaml --ckpt ../output/da-kitti-custom_models/secondiou/secondiou_ped/pedestrianonly/ckpt/checkpoint_epoch_80.pth --workers 0 --batch_size 1

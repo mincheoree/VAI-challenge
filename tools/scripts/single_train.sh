@@ -1,0 +1,1 @@
+python train.py --cfg_file cfgs/da-kitti-custom_models/secondiou/secondiou_ped.yaml --workers 0 --batch_size 1
